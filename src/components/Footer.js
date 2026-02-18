@@ -110,7 +110,7 @@ const Footer = () => {
               <FiGithub />
             </SocialLink>
             <SocialLink
-              href="https://www.linkedin.com/in/anmol-rajas-8b7162284/"
+              href="https://www.linkedin.com/in/anmol-rajas-898049395/"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1 }}

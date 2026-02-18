@@ -346,7 +346,7 @@ const Hero = () => {
               className="secondary"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              onClick={() => window.open('https://drive.google.com/file/d/1EujAtUTUnXJ8f55ghoeCjPGx68zsrj7i/view?usp=sharing', '_blank')}
+              onClick={() => window.open('https://drive.google.com/file/d/1SnRmi9BrueGfUO0IyScLF5j9ll8SCBj2/view?usp=sharing', '_blank')}
             >
               <FiDownload />
               Resume
@@ -365,7 +365,7 @@ const Hero = () => {
               <FiGithub />
             </SocialLink>
             <SocialLink
-              href="https://www.linkedin.com/in/anmol-rajas-8b7162284/"
+              href="https://www.linkedin.com/in/anmol-rajas-898049395/"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1 }}
