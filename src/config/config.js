@@ -1,2 +1,2 @@
-const BackendServer = process.env.REACT_APP_BACKEND_URL;
+const BackendServer = import.meta.env.VITE_BACKEND_URL;
 export default BackendServer;
